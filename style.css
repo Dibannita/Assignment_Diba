@@ -1,0 +1,143 @@
+body{
+	margin:0;
+	font-family: 'Poppins', sans-serif;
+}
+#header_part{
+	display:flex;
+	margin:5% 12% 5% 7%;
+	
+	
+}
+.header a{
+	margin-left:10%;
+}
+.header h3{
+	color:#3E3E3E;
+	font-weight:normal;
+	text-align:justify;
+	width:75%;
+	margin-left:10%;
+	margin-bottom:5%;
+	margin-top:4%;
+	
+	
+}
+.header img{
+	width:100%;
+    margin-left: 50px;
+}
+#goals{
+	letter-spacing:3px;
+    border-left: 5px solid rgb(212, 23, 23);
+    padding-left: 10px;
+	margin-left:10%;
+	
+    
+	
+}
+#goals p{
+	font-family: 'Cormorant SC', serif;
+	font-size:70px;
+	font-weight:bold;
+}
+
+.link{
+	text-decoration: none;
+    background-color: tomato;
+    padding: 10px 12px 10px 12px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 40px;
+	
+}
+#second_part{
+}
+#color{
+	color:#FFAD5A;
+	
+}
+.one_third_width{
+}
+#first{
+}
+#second{
+}
+#third{
+}
+#third_part{
+	display:flex;
+	background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size:250px;
+    background-position:left;
+	margin-left:5%;
+	margin-top:5%;
+	margin-right:10%;
+	
+
+	
+}
+.third_item h4{
+	color:#3E3E3E;
+	font-weight:normal;
+	font-size:20px;
+	
+}
+.third_item img{
+	width:70%;
+    padding-left: 100px;
+	margin-left:1%;
+}
+#color2{
+	font-weight:bolder;
+	font-size:45px;
+	font-family: 'Cormorant SC', serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+#forth_part{
+	display:flex;
+	margin-top:5%;
+	background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:right;
+}
+.forth_item img{
+	width:70%;
+    padding-left: 100px;
+	margin-left:1%;
+	margin-right:15%;
+	
+}
+#fourth_1sthalf h1{
+	font-weight:bolder;
+	font-size:45px;
+	font-family: 'Cormorant SC', serif;
+	font-family: 'Pacifico', cursive;
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+}
+#fourth_1sthalf h4{
+	color:#3E3E3E;
+	font-weight:normal;
+	font-size:20px;
+	
+}
+#fourth_1sthalf {
+	margin-left:10%;
+	
+	
+}
+#fifth_part{
+}
+.fifth_item{
+}
+#fifth1{
+}
+.footer{
+	text-align: center;
+    padding-bottom: 4px;
+}
+
